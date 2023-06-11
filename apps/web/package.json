@@ -17,12 +17,12 @@
     "@sveltejs/adapter-auto": "latest",
     "@sveltejs/kit": "latest",
     "eslint-config-custom": "*",
-    "svelte": "^3.44.0",
-    "svelte-check": "^2.7.1",
-    "svelte-preprocess": "^4.10.6",
+    "svelte": "latest",
+    "svelte-check": "latest",
+    "svelte-preprocess": "latest",
     "tslib": "^2.3.1",
     "typescript": "^4.7.2",
-    "vite": "^3.1.6"
+    "vite": "latest"
   },
   "type": "module"
 }
